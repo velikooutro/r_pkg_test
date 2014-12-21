@@ -1,2 +1,2 @@
-r_pkg_test
+test R package
 ==========
