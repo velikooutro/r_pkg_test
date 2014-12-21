@@ -1,3 +1,3 @@
-pkgtest
+r_pkg_test
 =======
-test R package
+test creating R package
