@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Package: pkgtest
+=======
+Package: cat
+>>>>>>> f3f66ae7bf0caffab51d12e546cdcb28e1bb3c78
 Title: What the package does (one line)
 Version: 0.1
 Authors@R: "First Last <first.last@example.com> [aut, cre]"
