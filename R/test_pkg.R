@@ -1,8 +1,8 @@
-test_function <- function(love=TRUE){
-    if(love==TRUE){
-        print("I love to code!")
+test_function <- function(yes=TRUE){
+    if(yes==TRUE){
+        print("this is true")
     }
     else {
-        print("I am not a cool person.")
+        print("this is false")
     }
 }
